@@ -1,5 +1,11 @@
 # Gestor de Notas
 
+![Laravel](https://img.shields.io/badge/Laravel-10-red)
+![Vue](https://img.shields.io/badge/Vue-3-42b883)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+
 Un gestor de notas fullstack con operaciones CRUD, desarrollado con Laravel en el backend y Vue 3 con Tailwind CSS en el frontend.
 
 ## Capturas de pantalla
@@ -33,7 +39,7 @@ Un gestor de notas fullstack con operaciones CRUD, desarrollado con Laravel en e
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/DevHashira/gestor-Notas.git
+git clone https://github.com/DevHashira/gestor-notas.git
 
 # Entrar al directorio del proyecto
 cd gestor-Notas
