@@ -78,7 +78,4 @@ button:focus-visible {
   }
 }
 
-body {
-  @apply bg-gray-100;
-}
 
