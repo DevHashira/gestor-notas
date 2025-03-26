@@ -11,8 +11,8 @@ Un gestor de notas fullstack con operaciones CRUD, desarrollado con Laravel en e
 ## Capturas de pantalla
 
 <div align="center">
-  <img src="images/crear-nota.png" alt="Crear nueva nota" width="48%" />
-  <img src="images/editar-nota.png" alt="Editar nota" width="48%" />
+  <img src="img/gestor_01.png" alt="Crear nota" width="48%" />
+  <img src="img/gestor_02.png" alt="Editar nota" width="48%" />
 </div>
 
 ## Características
